@@ -1,2 +1,2 @@
-# asc-dec-odd-even
+# asc-desc-odd-even
 For activity purposes only
